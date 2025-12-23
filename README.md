@@ -61,13 +61,3 @@ Follow these steps to set up and run the project locally:
    ```
 
 ---
-
-g
-
-We welcome contributions to enhance the project:
-
-1. Fork the repository and create a new branch.
-2. Make changes with clear, descriptive commit messages.
-3. Submit a pull request with a detailed explanation.
-
----
